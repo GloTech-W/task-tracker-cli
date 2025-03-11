@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries",
+    "status": "todo",
+    "createdAt": "2025-03-10T12:22:31.948Z",
+    "updatedAt": "2025-03-10T12:22:31.966Z"
+  },
+  {
+    "id": 2,
+    "description": "Go to gym urgent",
+    "status": "todo",
+    "createdAt": "2025-03-11T04:41:10.285Z",
+    "updatedAt": "2025-03-11T04:41:10.315Z"
+  },
+  {
+    "id": 3,
+    "description": "Complete project report in-progress",
+    "status": "todo",
+    "createdAt": "2025-03-11T04:41:53.598Z",
+    "updatedAt": "2025-03-11T04:41:53.601Z"
+  }
+]
